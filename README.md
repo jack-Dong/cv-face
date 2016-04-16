@@ -1,4 +1,4 @@
 # cv-face
 surf face match
 
-a demo for sudent
+a demo for some sudent
