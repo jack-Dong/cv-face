@@ -1,4 +1,2 @@
 # cv-face
-surf face match
-
-a demo for sudents
+face  detect and face surf keypoints match
